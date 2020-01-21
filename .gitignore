@@ -98,6 +98,7 @@ local.properties
 # Gradle
 .idea/**/gradle.xml
 .idea/**/libraries
+.idea/*.*
 
 # Gradle and Maven with auto-import
 # When using Gradle or Maven with auto-import, you should exclude module files,
@@ -191,3 +192,4 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 
 # End of https://www.gitignore.io/api/java,maven,eclipse,intellij
+/.idea/
